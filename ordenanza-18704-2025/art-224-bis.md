@@ -1,0 +1,3 @@
+Artículo 224º bis: – Facúltase al Departamento Ejecutivo a través de la Dirección de Obras Sanitarias, a actualizar y confeccionar el texto ordenado del Reglamento para la Facturación de Servicios, incluyendo las normas y valores previstos en la Ordenanza Fiscal e Impositiva vigentes, incluyendo la modificación de los establecido en el artículo
+224 párrafo 2° autorizando la incidencia de lo facturado de acuerdo al sistema medido en hasta un 80 %, respecto al cargo fijo, con el objeto de incentivar el servicio medido fomentando la concientización del uso racional del agua.
+Durante el ejercicio 2025, podrá aplicarse dicha modificación, a partir de julio de 2025. …”
