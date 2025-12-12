@@ -1,0 +1,4 @@
+Ordenanza Nº19066/2025
+Ordenanza Nº 19066/2025
+Tandil, 27/11/2025
+ORDENANZA
