@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-tandil",
+  "code": "AR-B-TANDIL",
+  "name": "Tandil",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-tandil-city-law",
+  "build": "built: municipal ordinances (203 ordinances, 203 versions) from https://sibom.slyt.gba.gob.ar/cities/121",
+  "language": "es",
+  "sources": 1
+}
