@@ -299,7 +299,7 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 ## Checks
 
-Not yet run for this build.
+253 versions of 253 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 A second build from the same corpus into an empty folder gave identical hashes for all 251 history commits and 506 tags (history tip `924b5aaa1520cc220ea5b8bbf91048e2fb5c356f`).
 
