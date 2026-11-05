@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Tandil | <https://sibom.slyt.gba.gob.ar/cities/121> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Tandil | <https://sibom.slyt.gba.gob.ar/cities/121> | 2026-11-05 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -217,20 +218,70 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-19491-2026` | Ordenanza 19491/2026: Autorízase al Departamento Ejecutivo a aceptar la única oferta presentada por la firma PERALTA FRANCO en la Licitación Privada Nº26-02-26 referente a “Contratación de mano de obra calificada para terminación de seis casa | 1 | 2026-10-23 to 2026-10-23 |
 | `ordenanza-19501-2026` | Ordenanza 19501/2026: Autorízase al Departamento Ejecutivo a aceptar la única oferta presentada por la firma VAKKUA S.A. en la Licitación Pública Nº09-01-26 referente a “Obra: acondicionamiento y provisión de calderas – Obra gas Hospital Ramó | 1 | 2026-11-06 to 2026-11-06 |
 | `ordenanza-19513-2026` | Ordenanza 19513/2026: Declárase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Agua por el sistema de Costo Cubierto en la calle LOS ROBLE | 1 | 2026-11-06 to 2026-11-06 |
+| `ordenanza-16811-2020` | Ordenanza 16811/2020: Autorízase a la Sra. Laura Muldon -DNI Nº 18.219.329- , a ocupar el espacio verde público en la calle Fleming y Berruti (junto a la entrada de la dirección de vialidad), para la instalación de un puesto de venta ambulant | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16819-2020` | Ordenanza 16819/2020: Declarase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Gas Natural por el sistema de costo cubierto en la calle LA | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16829-2020` | Ordenanza 16829/2020: Autorízase al Departamento Ejecutivo a reservar estacionamiento para ASCENSO Y DESCENSO DE ESCOLARES en el establecimiento del &ldquo;Colegio Santa Catalina en la Sierra&rdquo; e individualizar el siguiente espacio: | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16807-2020` | Ordenanza 16807/2020: Fíjase el nuevo cuadro tarifario para el Servicio de Transporte Interurbano de pasajeros a la localidad de Gardey, Transporte General Belgrano S.R.L. y válido para la utilización total o de tramos parciales de dicho serv | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16842-2020` | Ordenanza 16842/2020: Autorizase al Departamento Ejecutivo a imputar a la cuenta especial de la Ordenanza Nº 2.505 y sus modificatorias, los gastos que demande la obra de: sustitución de cincuenta y siete (57) artefactos ornamentales a LED en | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16858-2020` | Ordenanza 16858/2020: Autorizase al Departamento Ejecutivo a suscribir el Contrato de obra con la "Cooperativa Integral de Provisión de Servicios Públicos de Tandil Ltda.",en los terminos del borrador obrante a fs. 26/27 del Expediente Nº 179 | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16859-2020` | Ordenanza 16859/2020: Modifíquese el Artículo 1º de la Ordenanza Nº 16727, el cual quedará redactado de la siguiente manera; "Nomínase Ana Irasusta a la calle Perimetral de la Circunscripción I que separa a ésta de la Circunscripción II, del  | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16865-2020` | Ordenanza 16865/2020: Derógase la Ordenanza Nº 16622 que otorga el permiso de Uso de Espacio Publico en la Plaza Hipólito Yrigoyen a nombre de Giselle Basualdo. | 1 | 2020-05-01 to 2020-05-01 |
+| `ordenanza-16894-2020` | Ordenanza 16894/2020: Convalídase el Decreto Municipal 1289/2020 que se individualiza a fojas 1, 2 y 3, ello en el marco de lo establecido en el Artículo 41° de la Ley Orgánica de las Municipalidades y concordante del Reglamento y Disposicion | 1 | 2020-06-28 to 2020-06-28 |
+| `ordenanza-16870-2020` | Ordenanza 16870/2020: Autorízase al Sr. Videla Gregoria-DNI Nº4.429.965-, a ocupar el espacio verde público en Parque del Lago del Fuerte, zona que estará delimitada por la senda aeróbica ( paralela a la Avenida Saavedra Lamas), desde el Km 0 | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-16873-2020` | Ordenanza 16873/2020: Exceptúase al Sr. VILLAN MARCELO ALEJANDRO - DNI Nº33.189.290 - del cumplimiento de lo prescripto en el ítem 10 del inciso e) del artículo 3 de la Ordenanza 12.748, en lo referente a la antigüedad máxima para prestar el  | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-16874-2020` | Ordenanza 16874/2020: Exceptúase a la Sra. Vázquez María Lujan &ndash;DNI: 21.504.600 &ndash; del cumplimiento de lo prescripto en el inciso C del Artículo 19 de la Ordenanza Nº 8113, en lo referente a la antigüedad mínima para habilitar auto | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-16877-2020` | Ordenanza 16877/2020: Convalídese el Convenio Específico de Colaboración suscripto entre la Universidad Nacional del Centro de la provincia de Buenos Aires, representado por el Sr. Rector Cr. Roberto Tassara, por una parte y el Municipio de T | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-16878-2020` | Ordenanza 16878/2020: Convalídese el Convenio de Colaboración suscripto entre la Sociedad Italiana de Socorros Mutuos (E.L), representado por el Sr. Ricardo Saracca en su carácter de Co-Administrador, por una parte y el Sistema Integrado de S | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-16884-2020` | Ordenanza 16884/2020: Autorízase al Departamento Ejecutivo a aceptar la única oferta presentada por la firma AIR LIQUIDE S.A., en la Licitación Privada Nº 13-02-20; adquisición de oxigeno medicinal para el Hospital de Niños "Dr. Debilio Blanc | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-16607-2019` | Ordenanza 16607/2019: Autorízase al Departamento Ejecutivo a reasignar partidas presupuestarias de la Secretaria de Planeamiento y Obras Públicas, en el marco del &ldquo;Fondo de Inversión Vial - Ord. 13.826&rdquo;, a fin de dotar de fondos a | 1 | 2019-12-28 to 2019-12-28 |
+| `ordenanza-16609-2019` | Ordenanza 16609/2019: Autorízase al Departamento Ejecutivo a imputar a la cuenta especial de la Ordenanza Nº 2.505 y sus modificatorias del saldo correspondiente al Ejercicio 2019, los gastos que demande la obra de conversión a Led de la ilum | 1 | 2019-12-28 to 2019-12-28 |
+| `ordenanza-16904-2020` | Ordenanza 16904/2020: Autorízase al Departamento Ejecutivo, por intermedio de sus organismos competentes, a considerar como susceptible de ser excepcionalmente habilitadas como Venta al por Mayor de Productos de Almacen y Dietetica, las insta | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16905-2020` | Ordenanza 16905/2020: Autorízase al Departamento Ejecutivo, por intermedio de sus organismos competentes, a considerar como susceptibles de ser excepcionalmente habilitadas como &ldquo;Instalaciones Deportivas de hasta 450m2 destinados a la a | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16908-2020` | Ordenanza 16908/2020: Autorízase al Sr. Vazquez Dasilva Dario -DNI Nº26.840.665- , a ocupar el espacio verde público en la Plaza Hipolito Yrigoyen, para la instalación de un puesto de venta de pochoclos, los dias sabados, domingos y feriados  | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16910-2020` | Ordenanza 16910/2020: Autorizase al Departamento Ejecutivo, por intermedio de sus organismos competentes, a considerar como susceptible de ser excepcionalmente convalidado , sin respetar la incorporación de los módulos de estacionamiento exig | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16912-2020` | Ordenanza 16912/2020: Autorízase al Departamento Ejecutivo a reservar estacionamiento para la siguiente institución educativa, para utilización exclusiva de transporte escolar y ascenso y descenso de pasajeros sin espera, e individualizar el  | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16913-2020` | Ordenanza 16913/2020: Autorízase a la Sra. Maria Guzman -DNI Nº25.931.733-, a ocupar el espacio público en la interseccion de Av. Brasil y Carlos Gardel para la instalación de un puesto de venta de Flores y Plantas. | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16917-2020` | Ordenanza 16917/2020: Declarase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Gas Natural por el sistema de Costo Cubierto en la calle CA | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16918-2020` | Ordenanza 16918/2020: Declarase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Gas Natural por el sistema de costo cubierto en las calles  | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16920-2020` | Ordenanza 16920/2020: Declárase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red Colectora de Cloacas por el sistema de Costo Cubierto en la ca | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16926-2020` | Ordenanza 16926/2020: Convalídese el Contrato de locación suscripto entre Jorge Oscar Manochi, D.N.I. 4.226.343, Stella Maris Manochi, D.N.I. 826.083 y María Teresa Natale de Manochi, D.N.I. 324.310, todos domiciliados en Av. Quintana Nº 70,  | 1 | 2020-07-31 to 2020-07-31 |
+| `ordenanza-16928-2020` | Ordenanza 16928/2020: Excluyase del Anexo I (LISTADO DE ESPACIOS PÚBLICOS PARA ESCAPARATES Y TITULARES DE LOS MISMOS) de la Ordenanza Nº 14.902, el Item Nº 13, kiosco de diarios y revistas sito en la calle Paz 1404. | 1 | 2020-08-21 to 2020-08-21 |
+| `ordenanza-16930-2020` | Ordenanza 16930/2020: Autorízase al Sr. Jorge AQUINO, con DNI Nº 11.247.701, a ocupar el espacio público en el Parque Soñado de los Niños, para la instalación de un carrito de venta de pochoclos, garrapiñadas, copos de nieve, gaseosas, molini | 1 | 2020-08-21 to 2020-08-21 |
+| `ordenanza-16932-2020` | Ordenanza 16932/2020: Adherir a la Ley Nacional Nº 27.548 sobre " Programa de Protección al Personal de Salud ante la pandemia de coronavirus COVID-19" | 1 | 2020-08-21 to 2020-08-21 |
+| `ordenanza-16935-2020` | Ordenanza 16935/2020: Establecer en el Calendario Anual a nivel Municipal que el primer fin de semana de Noviembre como fecha para la realizacion del "Festival del Salame y El Cerdo", salvaguardando el segundo fin de semana del mismo mes en c | 1 | 2020-08-21 to 2020-08-21 |
+| `ordenanza-17030-2020` | Ordenanza 17030/2020: Apruébese la modificación del Diseño Curricular de la Carrera de “Técnico en diseño y decoración de interiores” de la Escuela Municipal de Artes y Oficios, la cual quedará conforme currícula obrante a fs. 3 y 4 del Exped | 1 | 2021-01-02 to 2021-01-02 |
+| `ordenanza-17032-2020` | Ordenanza 17032/2020: Modifícase el Artículo 1° de la Ordenanza 8113, el cual quedará redactado de la siguiente manera: | 1 | 2021-01-02 to 2021-01-02 |
+| `ordenanza-17049-2020` | Ordenanza 17049/2020: Declárase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red Colectora de Cloacas por el sistema de Costo Cubierto en la ca | 1 | 2021-01-02 to 2021-01-02 |
+| `ordenanza-17145-2021` | Ordenanza 17145/2021: Nomínese en el espacio del Anfiteatro Municipal “Martín Fierro”, “Escenario Natural de las Escenas de la Redención Don Jorge Lester” y “Luis J. Actis” y “Enrique Ferrarese”, respectivamente, a las tribunas ubicadas a los | 1 | 2021-04-23 to 2021-04-23 |
+| `ordenanza-17149-2021` | Ordenanza 17149/2021: Autorizase al Sr. Marino Amílcar-DNI Nº 5.378.892-, a ocupar el espacio público en calle 9 de Julio al 500, vereda par, casi esquina San Martín para la instalación de un puesto de venta de pochoclos y garrapiñadas, en ho | 1 | 2021-04-23 to 2021-04-23 |
+| `ordenanza-17156-2021` | Ordenanza 17156/2021: Autorizase la escrituración de las parcelas del Plan Familia Propietaria a favor de los beneficiarios que se detallan en el Anexo I de la presente Ordenanza. | 1 | 2021-04-23 to 2021-04-23 |
+| `ordenanza-17095-2021` | Ordenanza 17095/2021: Autorízase al Departamento Ejecutivo a reservar estacionamiento para ambulancias y para ascenso y descenso de pacientes, sin espera, en el Instituto de Cardiología Tandil e individualizar el siguiente espacio: | 1 | 2021-03-26 to 2021-03-26 |
+| `ordenanza-17103-2021` | Ordenanza 17103/2021: Autorizase al Departamento Ejecutivo a suscribir la renovación del convenio del Programa " Lazos comunitarios para la crianza" para el período 2021, celebrada entre el Municipio de Tandil y el Organismo Provincial de la  | 1 | 2021-03-26 to 2021-03-26 |
+| `ordenanza-17104-2021` | Ordenanza 17104/2021: Declarase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Gas Natural por el sistema de Costo Cubierto en las calles  | 1 | 2021-03-26 to 2021-03-26 |
+| `ordenanza-17108-2021` | Ordenanza 17108/2021: Autorizase al Sistema Integrado de Salud Pública a imputar los gastos de adquisición de un tubo de rayos X para ser instalado en el tomógrafo Toshiba Alexion del Hospital “Ramón Santamarina” y de dos (2) cables de alta t | 1 | 2021-03-26 to 2021-03-26 |
+| `ordenanza-17118-2021` | Ordenanza 17118/2021: Autorícese el espacio público de la Plaza Independencia según croquis que se adjunta a la presente Ordenanza (anexo I) para la apertura del "Paseo Gastronómico del Casco Histórico" que funcionará en el marco de las excep | 1 | 2021-03-26 to 2021-03-26 |
+| `ordenanza-17080-2021` | Ordenanza 17080/2021: Autorizase a la Asociacion Civil Barrio Ecos, el uso del espacio público para realizar la obra "RED DE AGUA INTERNA AL PREDIO POR SERVICIO PRIVADO", en las calles Poli al 2200-2300 y Galicia 2500-2600, de acuerdo al proy | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-17082-2021` | Ordenanza 17082/2021: Declárase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red Colectora de Cloacas por el sistema de Costo Cubierto en la ca | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-17090-2021` | Ordenanza 17090/2021: Autorizase al Departamento Ejecutivo a aceptar la única oferta presentada por la firma Tecnosalud S.A. en la Licitación Privada Nº 03-02-21 Sistema Baha 5, adquisión de un (1) Sistema Baha 5, en el marco del otorgamiento | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-17257-2021` | Ordenanza 17257/2021: Apruébase la Nómina de Mayores Contribuyentes que se detallan a continuación: | 1 | 2021-08-06 to 2021-08-06 |
+| `ordenanza-17272-2021` | Ordenanza 17272/2021: Declárase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red COLECTORA de AGUA por el sistema de Costo Cubierto en la calle | 1 | 2021-08-06 to 2021-08-06 |
+| `ordenanza-17274-2021` | Ordenanza 17274/2021: Declarase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Gas Natural por el sistema de Costo Cubierto en la calle LO | 1 | 2021-08-06 to 2021-08-06 |
+| `ordenanza-17275-2021` | Ordenanza 17275/2021: Declarase de Utilidad Pública para los propietarios y/o poseedores a título de dueño de los inmuebles beneficiados por la ejecución de la extensión de la Red de Gas Natural por el sistema de Costo Cubierto en la calle PI | 1 | 2021-08-06 to 2021-08-06 |
+| `ordenanza-17209-2021` | Ordenanza 17209/2021: Incorpórese al listado de moteros y bicicleteros del Artículo Nº 1 de la Ordenanza Nº 11.017 el siguiente: | 1 | 2021-06-25 to 2021-06-25 |
 
-The build made 203 commits:
+The build made 253 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 203 | first version of an act |
+| 253 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 2 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 203 laws in the record.
-- 407 tags.
+- 253 laws in the record.
+- 507 tags.
 
 ## Dates
 
@@ -242,15 +293,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e62baf16d107f5dc682e379d3ea7a07a6d6e61596c2c2a4fc13d7acc6929e07c` (834956 bytes).
+- Corpus: sha256 `6d8d0f4ca2ecefc8e5e2ce1751e0aa632e5ed13565b2dada485a78a629deeaa4` (1061167 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-203 versions of 203 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 251 history commits and 506 tags (history tip `924b5aaa1520cc220ea5b8bbf91048e2fb5c356f`).
 
 ## Decisions made by hand
 
@@ -259,6 +310,10 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- These ordinances are the original texts in the official municipal bulletins, as enacted. This part extends the archive; it does not assert a consolidated history.
+- In-force dates follow each ordinance's express commencement, otherwise the ninth day after the source bulletin publication under the existing municipal rule. No retrieval date replaces a source date.
+- Every included version was compared independently with its official HTML column, including punctuation and all non-whitespace characters.
+- Normative images are deferred under the worker image-sync instruction; no image content was converted into law text.
 
 ## What AI did and did not do
 
@@ -270,3 +325,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote the job orchestration and checks; 50 acts were selected mechanically from the official listing. No model wrote legal text or corrected OCR.

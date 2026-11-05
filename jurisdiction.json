@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-tandil-city-law",
-  "build": "built: municipal ordinances (203 ordinances, 203 versions) from https://sibom.slyt.gba.gob.ar/cities/121",
+  "build": "built: municipal ordinances (253 ordinances, 253 versions) from https://sibom.slyt.gba.gob.ar/cities/121",
   "language": "es",
   "sources": 1
 }
