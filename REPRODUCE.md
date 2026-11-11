@@ -281,7 +281,7 @@ Other counts:
 - 2 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 253 laws in the record.
-- 507 tags.
+- 509 tags.
 
 ## Dates
 
